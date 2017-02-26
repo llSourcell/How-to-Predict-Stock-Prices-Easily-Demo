@@ -23,7 +23,7 @@ def plot_results_multiple(predicted_data, true_data, prediction_len):
     plt.show()
 
 def load_data(filename, seq_len, normalise_window):
-    f = open(filename, 'rb').read()
+    f = open(filename, 'r').read()
     data = f.split('\n')
 
     sequence_length = seq_len + 1
