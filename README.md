@@ -1,5 +1,7 @@
-# How-to-Predict-Stock-Prices-Easily-Demo
+# How-to-Predict-Stock-Prices-Easily-Demo (refactored for Python 3.8 with Keras=='2.8.0')
 How to Predict Stock Prices Easily - Intro to Deep Learning #7 by Siraj Raval on Youtube
+__(Refactored by Manoel Gadi for Python 3.8 with Keras=='2.8.0', some paramters like output_dim has been renamed to units)__
+Copy maintained in this repo waiting for pull request to be accepted by author: Siraj.
 
 ##Overview
 
